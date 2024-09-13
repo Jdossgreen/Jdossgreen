@@ -1,16 +1,18 @@
-- 👋 Hi, I’m @Jdossgreen
-- 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on any projects, I an fresh out of college and need some experience!
-- 📫 How to reach me, E-mail me at jdossgreen@icloud.com...
-- 😄 Pronouns: M
-- ⚡ Fun fact: 2 years ago i didnt even have my HS diploma.
-- In that time I earned my GED. Enrolled into college. Earned Deans Honor Roll for
-- Computer Science! And have learned SO much including, C,
-- C++, Javascript, HTML, CSS, MySQL, PHP, assembly language, improved my
-- typing speed and MORE!
+- 👋 Hi, I’m James (aka @Jdossgreen)
 
-<!---
-Jdossgreen/Jdossgreen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+	•	👀 I’m passionate about Computer Science and web development.
+	•	🌱 Currently learning React and expanding my skills in web technologies.
+	•	💞️ Looking to collaborate on any projects—fresh out of college and eager for hands-on experience!
+	•	📫 Reach me at jdossgreen@icloud.com.
+
+🏆 A bit about me:
+	•	2 years ago, I didn’t even have my HS diploma, but in that time:
+	•	I earned my GED.
+	•	Enrolled in college and made the Dean’s Honor Roll for Computer Science, twice!
+	•	Learned C, C++, JavaScript, HTML, CSS, MySQL, PHP, assembly language, Azure hybrid cloud environments, cybersecurity and more.
+	•	Even improved my typing speed!
+ 
+
+⚡ Fun fact:
+
+•	I’m always learning and pushing myself to grow in tech.
